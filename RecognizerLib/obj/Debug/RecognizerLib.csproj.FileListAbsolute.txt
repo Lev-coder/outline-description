@@ -1,0 +1,78 @@
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\RecognizerLib.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\RecognizerLib.pdb
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.xml
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\User\Desktop\Recognizer\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csproj.CopyComplete
+C:\Users\User\Desktop\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.dll
+C:\Users\User\Desktop\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.xml
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Диплом\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csprojAssemblyReference.cache
+D:\Диплом\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csproj.CoreCompileInputs.cache
+D:\Диплом\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.csproj.CopyComplete
+D:\Диплом\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer\RecognizerLib\obj\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\RecognizerLib.dll.config
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Диплом\Recognizer\RecognizerLib\bin\Debug\System.Drawing.Common.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.dll.config
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Drawing.Common.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.xml
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csprojAssemblyReference.cache
+D:\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csproj.CoreCompileInputs.cache
+D:\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csproj.CopyComplete
+D:\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.pdb
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.dll.config
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\RecognizerLib.pdb
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Blob.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Drawing.Common.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.xml
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Blob.xml
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csproj.AssemblyReference.cache
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csproj.CoreCompileInputs.cache
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.csproj.CopyComplete
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.dll
+D:\Загрузки\Диплом\Recognizer 1.0\RecognizerLib\obj\Debug\RecognizerLib.pdb

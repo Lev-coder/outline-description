@@ -1,0 +1,75 @@
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\Examples.exe.config
+D:\Диплом\Recognizer\Examples\bin\Debug\Examples.exe
+D:\Диплом\Recognizer\Examples\bin\Debug\Examples.pdb
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.Blob.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer\Examples\bin\Debug\RecognizerLib.dll.config
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.xml
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.Blob.xml
+D:\Диплом\Recognizer\Examples\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Диплом\Recognizer\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Диплом\Recognizer\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
+D:\Диплом\Recognizer\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\Диплом\Recognizer\Examples\obj\Debug\Examples.csproj.CopyComplete
+D:\Диплом\Recognizer\Examples\obj\Debug\Examples.exe
+D:\Диплом\Recognizer\Examples\obj\Debug\Examples.pdb
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Диплом\Recognizer\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.exe.config
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.exe
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.pdb
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Blob.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.pdb
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.dll.config
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.xml
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Blob.xml
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Диплом\Recognizer 1.0\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
+D:\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csproj.CopyComplete
+D:\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.exe
+D:\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.pdb
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg440.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg440_64.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x86\opencv_videoio_ffmpeg430.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\dll\x64\opencv_videoio_ffmpeg430_64.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.exe.config
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.exe
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\Examples.pdb
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Blob.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.pdb
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\RecognizerLib.dll.config
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.xml
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Blob.xml
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csproj.AssemblyReference.cache
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.csproj.CopyComplete
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.exe
+D:\Загрузки\Диплом\Recognizer 1.0\Examples\obj\Debug\Examples.pdb
